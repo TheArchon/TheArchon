@@ -66,8 +66,9 @@
     <img src="https://img.shields.io/badge/-Aʙᴏᴜᴛ%20Mᴇ-00F7FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://github.com/TheArchon">
-    <img src="https://img.shields.io/badge/-Gɪᴛʜᴜʙ-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-  </p>
+    <img src="https://img.shields.io/badge/-Gɪᴛʜᴜʙ-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
 
 ---
 
